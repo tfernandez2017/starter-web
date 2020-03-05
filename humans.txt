@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Tory Fernandez @tfernandez2017
 
 # THANKS
 
